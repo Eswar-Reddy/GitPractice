@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>36.0</apiVersion>
+    <available>false</available>
+    <description>Testing Email Template</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>TestFolderTemplate</name>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>7</minorNumber>
+        <namespace>sf_com_apps</namespace>
+    </packageVersions>
+    <style>none</style>
+    <type>visualforce</type>
+</EmailTemplate>
