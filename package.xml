@@ -4,6 +4,7 @@
     <types>
         <members>Ac1</members>
         <members>Ac2</members>
+        <members>Ac3</members>
         <members>ApexCls01</members>
         <members>ApexCls02</members>
         <members>AppCls01Profile</members>
@@ -85,6 +86,7 @@
     <types>
         <members>cl1</members>
         <members>cl2</members>
+        <members>cl3</members>
         <name>CustomLabel</name>
     </types>
     <types>

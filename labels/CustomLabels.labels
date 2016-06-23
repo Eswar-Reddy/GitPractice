@@ -14,4 +14,11 @@
         <shortDescription>cl2</shortDescription>
         <value>22</value>
     </labels>
+    <labels>
+        <fullName>cl3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>cl3</shortDescription>
+        <value>33</value>
+    </labels>
 </CustomLabels>
