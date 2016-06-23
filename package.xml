@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>36.0</version>
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>37.0</version>
     <types>
+        <members>Ac1</members>
+        <members>Ac2</members>
         <members>ApexCls01</members>
         <members>ApexCls02</members>
         <members>AppCls01Profile</members>
@@ -80,7 +83,13 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>cl1</members>
+        <members>cl2</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>CustomAppresultsLabel__c</members>
+        <members>Fan__c</members>
         <members>Mobile_Settting__mdt</members>
         <members>Mobile__c</members>
         <members>MyCustomObject1__c</members>
