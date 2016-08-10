@@ -55,6 +55,33 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>ComputerInfo__c</fullName>
+        <externalId>false</externalId>
+        <label>ComputerInfo</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>ComputerHelpMail__c</fullName>
+        <externalId>false</externalId>
+        <label>ComputerHelpMail</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ComputerPrice__c</fullName>
+        <externalId>false</externalId>
+        <label>ComputerPrice</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
     <label>Computer</label>
     <nameField>
         <label>Computer Name</label>
