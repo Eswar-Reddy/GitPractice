@@ -138,6 +138,10 @@
         <name>FieldSet</name>
     </types>
     <types>
+        <members>RabitPicklist1</members>
+        <name>GlobalPicklist</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
     </types>
