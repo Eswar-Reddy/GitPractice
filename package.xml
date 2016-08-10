@@ -20,7 +20,9 @@
         <members>NewWelcome</members>
         <members>NewYearMsg</members>
         <members>Sample</members>
+        <members>WeekendWishes</members>
         <members>Welcome</members>
+        <members>WorkShop</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -90,6 +92,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>Computer__c</members>
         <members>CustomAppresultsLabel__c</members>
         <members>Fan__c</members>
         <members>Mobile_Settting__mdt</members>
