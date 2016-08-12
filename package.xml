@@ -14,6 +14,7 @@
         <members>AppClsProfile</members>
         <members>AppClsProfile1</members>
         <members>BasicInfo</members>
+        <members>FestivalInfo</members>
         <members>MessageInfo</members>
         <members>MyHelloWorld</members>
         <members>MyWorld</members>
