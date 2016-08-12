@@ -13,6 +13,7 @@
         <members>AppCls3</members>
         <members>AppClsProfile</members>
         <members>AppClsProfile1</members>
+        <members>BasicInfo</members>
         <members>MessageInfo</members>
         <members>MyHelloWorld</members>
         <members>MyWorld</members>
