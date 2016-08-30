@@ -129,6 +129,7 @@
         <members>EswarTestFolder/TestCustomEmailTemplate</members>
         <members>EswarTestFolder/TestFolderTemplate</members>
         <members>unfiled$public/EmployeeEmailTemplate</members>
+        <members>unfiled$public/empEmailTemp1</members>
         <name>EmailTemplate</name>
     </types>
     <types>
