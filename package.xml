@@ -128,6 +128,7 @@
         <members>EswarTestFolder/SupportSelfServiceResetPassword</members>
         <members>EswarTestFolder/TestCustomEmailTemplate</members>
         <members>EswarTestFolder/TestFolderTemplate</members>
+        <members>unfiled$public/EmployeeEmailTemplate</members>
         <name>EmailTemplate</name>
     </types>
     <types>
