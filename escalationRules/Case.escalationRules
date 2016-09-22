@@ -21,15 +21,15 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>120</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
-            <escalationStartTime>CaseLastModified</escalationStartTime>
+            <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
         <ruleEntry>
             <businessHoursSource>Case</businessHoursSource>
@@ -49,13 +49,13 @@
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
-                <notifyCaseOwner>true</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyCaseOwner>false</notifyCaseOwner>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -73,17 +73,17 @@
             </criteriaItems>
             <criteriaItems>
                 <field>Case.Priority</field>
-                <operation>lessOrEqual</operation>
+                <operation>equals</operation>
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>240</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -101,17 +101,17 @@
             </criteriaItems>
             <criteriaItems>
                 <field>Case.Priority</field>
-                <operation>lessOrEqual</operation>
+                <operation>equals</operation>
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>480</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -128,13 +128,13 @@
                 <value>Silver</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>720</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -151,13 +151,13 @@
                 <value>Bronze</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1440</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -174,13 +174,13 @@
                 <value>Gold,Platinum</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>
@@ -197,13 +197,13 @@
                 <value>Silver,Bronze</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>eswar.d@dev.com</assignedTo>
-                <assignedToTemplate>EswarTestFolder/SupportEscalatedCaseReassignment</assignedToTemplate>
+                <assignedTo>eswar.reddy20@ar.com</assignedTo>
+                <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1080</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>eswar.d@dev.com</notifyTo>
-                <notifyToTemplate>EswarTestFolder/SupportEscalatedCaseNotification</notifyToTemplate>
+                <notifyTo>eswar.reddy20@ar.com</notifyTo>
+                <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
         </ruleEntry>

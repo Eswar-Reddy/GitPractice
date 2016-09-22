@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>cl1</fullName>
+        <fullName>ARCLs1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>cl1</shortDescription>
+        <shortDescription>ARCLs1</shortDescription>
         <value>11</value>
     </labels>
     <labels>
-        <fullName>cl2</fullName>
+        <fullName>Cl1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>cl2</shortDescription>
-        <value>22</value>
+        <shortDescription>Cl1</shortDescription>
+        <value>11</value>
     </labels>
     <labels>
-        <fullName>cl3</fullName>
+        <fullName>T2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>cl3</shortDescription>
-        <value>33</value>
+        <shortDescription>T2</shortDescription>
+        <value>1</value>
     </labels>
 </CustomLabels>
